@@ -1,7 +1,7 @@
 from cross_modality_learning.experiment import run_experiment
 
 RETRAIN_LR = 1e-7
-PRETRAIN_LR = 1e-3
+PRETRAIN_LR = 1e-5
 NO_PRETRAIN_LR = 1e-3
 PATCH_SIZE = 4
 BATCH_SIZE = 8
