@@ -1,0 +1,12 @@
+einops==0.3.0
+matplotlib==3.2.1
+numpy==1.18.3
+tensorflow==2.8.0
+tensorflow-datasets==4.5.2
+torch==1.7.1
+torchvision==0.8.2
+transformers==4.18.0
+tqdm==4.64.0
+wandb==0.12.16
+scikit-learn==1.0.2
+tim==0.5.4
