@@ -152,7 +152,7 @@ def run_experiment(
         num_iters = 1000,
         steps_per_iter = 100,
         test_steps_per_iter = 25,
-        log_to_wandb = False,
+        log_to_wandb = True,
         note = "",
         wandb_project = "mlnn_research_paper",
         include_date=False,
