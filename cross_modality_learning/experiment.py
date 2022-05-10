@@ -149,7 +149,7 @@ def run_experiment(
         experiment_params,
 ):
     exp_args = dict(
-        num_iters = 1000,
+        num_iters = 250,
         steps_per_iter = 100,
         test_steps_per_iter = 25,
         log_to_wandb = True,
